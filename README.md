@@ -6,6 +6,8 @@ This is my Maven project from MuleSoft's advanced development class
 
 1. Add the remote repository: 
     `git remote add origin https://github.com/<your_uid>/maven-project-<your_initials>.git`
+    OR
+    `git remote add origin2 https://gopale@bitbucket.org/gopale/maven-project-gopal.git`
 
 2. Enter the repo: `cd maven-project`
 
